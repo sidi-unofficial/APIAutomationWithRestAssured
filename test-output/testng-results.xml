@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4701" started-at="2019-09-19T13:41:20Z" finished-at="2019-09-19T13:41:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4701" started-at="2019-09-19T13:41:20Z" finished-at="2019-09-19T13:41:25Z">
+      <class name="com.qa.testcases.TC007_GET_REQUEST_Authorization">
+        <test-method status="PASS" signature="Authorization()[pri:0, instance:com.qa.testcases.TC007_GET_REQUEST_Authorization@5e5792a0]" name="Authorization" duration-ms="4616" started-at="2019-09-19T13:41:21Z" finished-at="2019-09-19T13:41:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Authorization -->
+      </class> <!-- com.qa.testcases.TC007_GET_REQUEST_Authorization -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
